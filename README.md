@@ -1,4 +1,4 @@
-# Labs for Azure ML & Azure Databricks
+# Azure ML & Azure Databricks Hands-On Labs
 
 Azure ML: https://azure.microsoft.com/en-us/services/machine-learning-service/<br>
 Azure Databricks: https://azure.microsoft.com/en-us/services/databricks/<br>

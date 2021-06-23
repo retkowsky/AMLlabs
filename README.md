@@ -3,7 +3,7 @@
 Azure ML, Azure Databricks, Azure Cognitive Services, MLOps.
 <br>
 <br>
-25/02/2021
+23/06/2021
 <br>
 <br>
 <br>
